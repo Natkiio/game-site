@@ -1,0 +1,14 @@
+.header-one {
+     font-style: italic; 
+     text-align: center;
+     text-decoration: underline;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header-two, .list { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list {
+    font-size: 20px;
+}
